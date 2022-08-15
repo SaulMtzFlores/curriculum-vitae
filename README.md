@@ -1,6 +1,8 @@
 # Curriculum Vitae Saúl Martínez Flores
 
-# Repositorio: 
+# GITHUB
+https://github.com/SaulMtzFlores/curriculum-vitae.git
+# GITLAB:
 https://gitlab.com/saul.martinez4965/curriculum-vitae
 
 # Despliegue Heroku:
