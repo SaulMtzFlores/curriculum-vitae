@@ -4,7 +4,7 @@
 https://gitlab.com/saul.martinez4965/curriculum-vitae
 
 # Despliegue Heroku:
-// TODO add heroku link
+https://curriculum-smf.herokuapp.com/
 
 
 PROFESOR: JOSE LUIS DAVID BONILLA CARRANZA
